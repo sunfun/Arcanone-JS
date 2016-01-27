@@ -1,3 +1,3 @@
 # Arcanone-JS
 JS Library
-For arcanone.com
+For http://arcanone.com
